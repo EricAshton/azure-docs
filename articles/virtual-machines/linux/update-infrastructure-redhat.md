@@ -231,5 +231,5 @@ To unregister RHUI and reregister to your update infrastructure follow these ste
 > 
 
 ## Next steps
-To create a Red Hat Enterprise Linux VM from Azure Marketplace Pay-As-You-Go image and leverage Azure-hosted RHUI go to [Azure Marketplace](https://azure.microsoft.com/marketplace/partners/redhat/). You will be able to use `yum update` in your RHEL instance without any additional setup.
+To create a Red Hat Enterprise Linux VM from Azure Marketpl ace Pay-As-You-Go image and leverage Azure-hosted RHUI go to [Azure Marketplace](https://azure.microsoft.com/marketplace/partners/redhat/). You will be able to use `yum update` in your RHEL instance without any additional setup.
 
